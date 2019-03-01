@@ -21,13 +21,6 @@
         </dependency>
 
         <dependency>
-            <groupId>org.apache.dubbo</groupId>
-            <artifactId>dubbo-common</artifactId>
-            <version>${project.version}</version>
-            <optional>true</optional>
-        </dependency>
-
-        <dependency>
             <groupId>com.alibaba.nacos</groupId>
             <artifactId>nacos-client</artifactId>
             <version>${nacos.version}</version>
